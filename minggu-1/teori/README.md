@@ -56,33 +56,33 @@ python3.10 --version
 ```
 output yang ditampilkan adalah sebagai berikut
 
-![Version Ubuntu](src/assets/version-ubuntu.png)
+![Version Ubuntu](../src/assets/version-ubuntu.png)
 
 Berikut adalah langkah-langkah installasi dengan installer:
 
 1. Pertama-tama mendownload installer python untuk os windows, dapat dilihat [disini](https://www.python.org/downloads/).
 
-![Download Link](src/assets/download-link.png)
+![Download Link](../src/assets/download-link.png)
 
 > Saat tulisan ini dibuat versi python adalah 3.10, mungkin saja pada kasus anda versi python bisa lebih tinggi.
 
 2. Dobel klik pada berkas yang telah di download
 
-![Installer File](src/assets/installer-download.png)
+![Installer File](../src/assets/installer-download.png)
 
 3. Dalam proses ini anda dapat memilih langsung menginstall python pada lokasi folder yang telah di tentukan dengan mengklik __Install Now__ atau klik __Cutomize installation__ untuk menentukan sendiri path dan paket installasi, Jangan lupa untuk menyentang _Add Python to PATH_.
 
 > Klik __Install Now__ jika tidak mengerti dengan menentukan path dan paket installasi.
 
-![First Gui Installer](src/assets/installer-gui-first.png)
+![First Gui Installer](../src/assets/installer-gui-first.png)
 
 4. Tunggu sampai proses installasi selesai
 
-![Secound Gui Installer](src/assets/installer-gui-secound.png)
+![Secound Gui Installer](../src/assets/installer-gui-secound.png)
 
 5. Proses installasi berhasil, jika tampil seperti gambar berikut.
 
-![Last Gui Installer](src/assets/installer-gui-last.png)
+![Last Gui Installer](../src/assets/installer-gui-last.png)
 
 6. Untuk dapat mengecek versi python yang telah berhasil terinstall dapat menggunakan perintah berikut pada cmd
 
@@ -92,7 +92,7 @@ python --version
 
 Maka akan menampilkan output berikut
 
-![Version Windows](src/assets/version-windows.png)
+![Version Windows](../src/assets/version-windows.png)
 
 ## Penggunaan _Interpreter_ Python
 
