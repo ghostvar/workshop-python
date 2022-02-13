@@ -93,3 +93,7 @@ python --version
 Maka akan menampilkan output berikut
 
 ![Version Windows](src/assets/version-windows.png)
+
+## Penggunaan _Interpreter_ Python
+
+#TODO
