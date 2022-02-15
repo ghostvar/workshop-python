@@ -182,9 +182,8 @@ Berikut beberapa sintak umum dalam penggunaan string pada python.
 >>> "\"Hooh,\" Ucapnya."
 '"Hooh," Ucapnya.'
 
->>> '"Isn\'t," Ucapnya.'
-
-'"Isn\'t," Ucapnya.'
+>>> '"Sa\'sa\' e," Ucapnya.'
+'"Sa\'sa\' e," Ucapnya.'
 ```
 
 > Tidak ada perbedaan output pada penulisan dengan petik satu (') atau dobel (")
