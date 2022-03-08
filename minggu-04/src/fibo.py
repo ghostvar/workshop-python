@@ -1,11 +1,11 @@
-def fib(n):    # write Fibonacci series up to n
+def fib(n):    # menuliskan output nilai fibonacci sampai n
     a, b = 0, 1
     while a < n:
         print(a, end=' ')
         a, b = b, a+b
     print()
 
-def fib2(n):   # return Fibonacci series up to n
+def fib2(n):   # mengembalikan nilai fibonacci sampai n
     result = []
     a, b = 0, 1
     while a < n:
