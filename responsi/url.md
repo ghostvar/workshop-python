@@ -1,0 +1,1 @@
+https://balisatudata.baliprov.go.id/api/v2/report/territory/data?report_type_id=448&year=2019
